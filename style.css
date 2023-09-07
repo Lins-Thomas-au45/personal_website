@@ -347,7 +347,11 @@ form textarea {
     color: #fff;
 }
 .copyright a {
-    color: #22cf91;
+    color: #0077b5;
+}
+
+.copyright p{
+    color: #333;
 }
 /* For Mobile */
 @media (max-width: 991px) {
